@@ -41,7 +41,6 @@ while level_service == 'bad':
 print (total_bill)
 split = int(input ('Split in how many ways? '))
 
-
 total = (total_bill / split)
 print (total)
 #subject = f'you entered, {student_subject}' 

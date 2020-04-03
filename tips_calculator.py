@@ -49,9 +49,6 @@ while level_service == 'bad':
     print (sum)
     break
 
-split = int(input ('Split in how many ways? '))
-total = f' {split / sum}'
-print (total)
 #subject = f'you entered, {student_subject}' 
 # greeting = f'hi {name}!!!!!'
 
